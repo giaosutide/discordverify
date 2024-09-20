@@ -1,0 +1,14 @@
+# Version 1.0
+
+bot:
+  token: "YOUR_DISCORD_BOT_TOKEN"  # Replace with the bot's actual token
+
+messages:
+  access_denied_title: "❌ Access Denied ❌"
+  access_denied_message: "You must link your Minecraft account with your Discord account."
+  link_command_message: "Please use the command `/link <your_ign>` on any channel Discord."
+  discord_info_message: "Join our Discord server for more information!"
+  discord_invite_link: "https://discord.gg/TKJnDYCt3D"
+  thank_you_message: "Thank you for understanding!"
+  link_success_message: "✅ The Minecraft account `%s` is now linked to your Discord."
+  reload_success_message: "Configuration reloaded!"

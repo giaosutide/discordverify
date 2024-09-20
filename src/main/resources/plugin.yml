@@ -1,0 +1,12 @@
+name: DiscordVerify
+version: '${project.version}'
+main: h4dro.me.discordverify.DiscordVerify
+api-version: '1.19'
+commands:
+  discordverify:
+    description: "Commands for DiscordVerify plugin"
+    usage: "/discordverify <reload>"
+permissions:
+  discordverify.reload:
+    description: "Allows player to reload the configuration"
+    default: op
